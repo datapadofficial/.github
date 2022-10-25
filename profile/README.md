@@ -4,7 +4,7 @@
 
 👩‍💻 We mostly use GitHub privately for the moment. Still, we're eager to share things might be useful publicly. So stay tuned and follow us here.
 
-🧙 By the way, you might consider taking a look at our open positions at [datapad.io/job](https://www.datapad.io/jobs) if you have any interest on working in a startup environment.
+🧙 By the way, you might consider taking a look at our open positions at [datapad.io/jobs](https://www.datapad.io/jobs) if you have any interest on working in a startup environment.
 
 <!--
 
